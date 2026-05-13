@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "JLCImport") (type "KiCad") (uri "${KIPRJMOD}/JLCImport.kicad_sym") (options "") (descr ""))
+	(lib (name "RTL9210B-CG") (type "KiCad") (uri "${KIPRJMOD}/manually_imported_components/RTL9210B-CG/easyeda2kicad.kicad_sym") (options "") (descr ""))
+)
