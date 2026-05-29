@@ -648,9 +648,14 @@
         "filename": "sata_connectors.kicad_sch",
         "name": "SATA_Connectors",
         "uuid": "7c969e8c-f8d8-4c96-86d0-9014d5a392a4"
+      },
+      {
+        "filename": "fan_control.kicad_sch",
+        "name": "Fan_Control",
+        "uuid": "c4d97e25-0a2f-4b24-879e-7792474a6366"
       }
     ],
-    "used_designators": "",
+    "used_designators": "C2_2,R27-29,R2_2,#PWR71-73,C1_2,C4-5,CN3,Q5",
     "variants": []
   },
   "sheets": [
@@ -661,6 +666,10 @@
     [
       "7c969e8c-f8d8-4c96-86d0-9014d5a392a4",
       "SATA_Connectors"
+    ],
+    [
+      "c4d97e25-0a2f-4b24-879e-7792474a6366",
+      "Fan_Control"
     ]
   ],
   "text_variables": {},
