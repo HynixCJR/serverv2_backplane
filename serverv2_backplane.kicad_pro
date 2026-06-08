@@ -653,9 +653,14 @@
         "filename": "fan_control.kicad_sch",
         "name": "Fan_Control",
         "uuid": "c4d97e25-0a2f-4b24-879e-7792474a6366"
+      },
+      {
+        "filename": "hdmi_to_csi.kicad_sch",
+        "name": "HDMI_to_CSI",
+        "uuid": "347a8f67-ae22-4095-8086-cff5ec6502f7"
       }
     ],
-    "used_designators": "C2_2,R27-29,R2_2,#PWR71-73,C1_2,C4-5,CN3,Q5",
+    "used_designators": "X2,P1,#PWR73-85,U7,C5",
     "variants": []
   },
   "sheets": [
@@ -670,6 +675,10 @@
     [
       "c4d97e25-0a2f-4b24-879e-7792474a6366",
       "Fan_Control"
+    ],
+    [
+      "347a8f67-ae22-4095-8086-cff5ec6502f7",
+      "HDMI_to_CSI"
     ]
   ],
   "text_variables": {},
