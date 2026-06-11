@@ -1,5 +1,5 @@
 .history/
 .history/*
-serverv2_backplane-backups/
-serverv2_backplane-backups/*
-~serverv2_backplane.kicad_pro.lck
+*-backups/
+*-backups/*
+~*.kicad_pro.lck
