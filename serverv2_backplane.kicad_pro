@@ -658,9 +658,19 @@
         "filename": "hdmi_to_csi.kicad_sch",
         "name": "HDMI_to_CSI",
         "uuid": "347a8f67-ae22-4095-8086-cff5ec6502f7"
+      },
+      {
+        "filename": "sg2002_and_rp2350b.kicad_sch",
+        "name": "SG2002_and_RP2350B",
+        "uuid": "1fa8d8fa-b9bb-45b7-bc88-3b533c66ef8d"
+      },
+      {
+        "filename": "other_connectors.kicad_sch",
+        "name": "Other_Connectors",
+        "uuid": "a6fda882-b5b2-43b7-bcc8-365357a6eb10"
       }
     ],
-    "used_designators": "C41-49,D7,#PWR109-115,R40-43",
+    "used_designators": "BOOTSEL1,#PWR73,#PWR116-118,#PWR121,#PWR124,#PWR129-139,C52-66,J4-5,R45-49,U10,X3,SW1",
     "variants": []
   },
   "sheets": [
@@ -679,6 +689,14 @@
     [
       "347a8f67-ae22-4095-8086-cff5ec6502f7",
       "HDMI_to_CSI"
+    ],
+    [
+      "1fa8d8fa-b9bb-45b7-bc88-3b533c66ef8d",
+      "SG2002_and_RP2350B"
+    ],
+    [
+      "a6fda882-b5b2-43b7-bcc8-365357a6eb10",
+      "Other_Connectors"
     ]
   ],
   "text_variables": {},
