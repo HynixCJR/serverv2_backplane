@@ -670,7 +670,7 @@
         "uuid": "a6fda882-b5b2-43b7-bcc8-365357a6eb10"
       }
     ],
-    "used_designators": "BOOTSEL1,#PWR73,#PWR116-118,#PWR121,#PWR124,#PWR129-139,C52-66,J4-5,R45-49,U10,X3,SW1",
+    "used_designators": "J4-5,#PWR124,#PWR140-143",
     "variants": []
   },
   "sheets": [
